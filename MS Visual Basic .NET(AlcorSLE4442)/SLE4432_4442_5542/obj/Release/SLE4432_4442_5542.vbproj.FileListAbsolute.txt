@@ -1,0 +1,8 @@
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\bin\SLE4432_4442_5542.exe
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\bin\SLE4432_4442_5542.xml
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\obj\Release\ResolveAssemblyReference.cache
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442_5542.frm_Main.resources
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442_5542.Resources.resources
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442_5542.vbproj.GenerateResource.Cache
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442_5542.exe
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual Basic .NET\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442_5542.xml

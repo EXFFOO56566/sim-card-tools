@@ -1,0 +1,19 @@
+读卡器支持9540在MAC系统上正常使用操作说明：
+1、将执行文件9540Tool_desktop.app及需要修改的info.plist拷贝到MAC桌面(注：info.plist文件必须直接放在桌面不能置于其他文件夹下)；
+2、双击9540Tool_desktop.app出现允许应用操作弹出的输入密码对话框，输入本机根用户密码；
+3、如果没其他错误信息弹出证明操作成功，可以正常使用读卡器。
+
+注：9540Tool_desktop.app在Windows系统下是以文件夹形式存在，在MAC下才是执行文件形式。
+
+
+Card reader in MAC system support 9540 normal use the operating instructions: 
+
+1, will execute the file 9540 Tool_desktop. The app and need to modify the info. Plist copy to MAC desktop (note: info. Plist files must be directly on the desktop can't in other folder); 
+
+2, double click 9540 Tool_desktop. The app allowing application the pop-up operation the input password dialog box, input the machine root password; 
+
+3, if no other false information popup prove successful operation, can normal use card reader. 
+
+
+
+Note: 9540 Tool_desktop. The app in Windows system folder is form existence, in the MAC are executable files form. 

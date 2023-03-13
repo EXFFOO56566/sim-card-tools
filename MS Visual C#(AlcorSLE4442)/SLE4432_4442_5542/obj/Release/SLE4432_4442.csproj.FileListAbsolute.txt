@@ -1,0 +1,5 @@
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual C#\Memory Cards\SLE4432_4442_5542\bin\Release\SLE4432_4442_5542.exe
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual C#\Memory Cards\SLE4432_4442_5542\obj\Release\ResolveAssemblyReference.cache
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual C#\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442.SLE4432_4442Main.resources
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual C#\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442.csproj.GenerateResource.Cache
+E:\customer\ACS\acs_09132007_V2.09\Sample Codes\MS Visual C#\Memory Cards\SLE4432_4442_5542\obj\Release\SLE4432_4442_5542.exe
